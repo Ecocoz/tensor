@@ -180,3 +180,7 @@ print(
 
 # access a row
 print(f"a[2].shape:   {a[2].shape}, a[2]   = {a[2]}, type(a[2])   = {type(a[2])}")
+
+
+
+# 多特征线性回归梯度下降
